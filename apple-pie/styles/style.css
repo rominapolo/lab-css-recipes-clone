@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hero {
+    height: 46vw;
+    background-image: url(file:///Users/codeart001/Desktop/code/module-1/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: -100px;
+    width: 100vw;
+    margin-left: -10px;
+
+}
+
+h1 {
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 18rem;
+    ;
+}
+
+h3 {
+    font-style: normal;
+    font-weight: lighter;
+}
+#middle {
+    text-align: center;
+    padding-top: 50px;
+    margin: 0px 300px;
+    margin-bottom: 50px;
+}
+
+#ingredients {
+    margin: 40px 300px;
+}
+
+#directions {
+    margin: 40px 300px 60px 300px;
+}
+
+.recipe-info {
+    width: 50%;
+}
+
+.cooking-info {
+    width: 50%;
+    text-align: center;
+    margin: 0px 200px
+}
+
+hr {
+    width: 70vw;
+}
